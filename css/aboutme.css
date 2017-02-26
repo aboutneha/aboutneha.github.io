@@ -1,0 +1,46 @@
+body{
+	background: url("../img/teal.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+h1{
+	font-size: 65px;
+	font-family: Rockwell;
+	text-align: center;
+	text-shadow: 2px 2px #008080
+}
+
+img{
+ max-width: 100%;
+ border: 5px white;
+ margin: 10px auto;
+}
+
+h2{
+	font-family: harrington; 
+	font-size: 30px;
+
+}
+
+h3{
+	font-family: rockwell;
+	font-size: 20px;
+	background-color: teal;
+}
+
+.education{
+	font-family: rockwell;
+	font-size: 15px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+h4{
+	font-family: rockwell;
+	font-size: 20px;
+	background-color: teal;
+}
+
+.values{
+	background-color: white;
+}
